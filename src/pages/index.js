@@ -35,10 +35,10 @@ const Home = () => {
 			</span>
 			<span className="text-wrapper-2">meaningful.</span>
 		  </p>
-		  <div className="text-wrapper-3"><a href="/about">About</a></div>
-		  <div className="text-wrapper-4"><a href="/sidequests">Side Quests</a></div>
+		  <div className="text-wrapper-3"><a href="/#/about">About</a></div>
+		  <div className="text-wrapper-4"><a href="/#/sidequests">Side Quests</a></div>
           <div className="text-wrapper-5"><a href="https://drive.google.com/file/d/1bbmCVaZKdKGOcrN9-paEPDPYydBdBdzJ/view?usp=sharing" target="_blank">Resume</a></div>
-		  <div className="text-wrapper-6"><a href="/projects">Work</a></div>
+		  <div className="text-wrapper-6"><a href="/#/projects">Work</a></div>
 		  <div className="ellipse" />
 		  <div className="ellipse-2" />
 		  <div className="ellipse-3" />
